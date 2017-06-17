@@ -9,7 +9,11 @@ Movies consist of:<br/>
     -Midnight in Paris<br/>
     -Iron Man<br/>
     
+<<<<<<< HEAD
 #Opening Project
 To open the folder in a browser, one can use the terminal by going into the correct folder and typing 'python entertainment_center.py'. Once enter is pressed, the brower would open up with the movies listed. 
 
 Enjoy!!!
+=======
+Enjoy!!!
+>>>>>>> b15592dbbc1a88f5c9d7a8aaee0feb1ea883a029
